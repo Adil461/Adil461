@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Adil461
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Adil Shahbaz!  
 
-<!---
-Adil461/Adil461 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Full-Stack Developer | Flutter & Django Enthusiast | AI & Game Development Lover**  
+
+### 👀 About Me  
+- 🔭 Currently working on: **AI Medical Image Predictor** 🧠  
+- 🌱 Learning **Backend Development, Flutter, and Game Development**  
+- 🎮 Building **Nail Art Game** and **Space Shooter Game** in Flutter  
+- 🤝 Open to collaborate on **Web Apps, Mobile Apps & AI Projects**
+
+---
+
+### 🛠 Tech Stack  
+- **Languages:** Python, Dart, JavaScript, HTML, CSS  
+- **Frameworks:** Django, Flutter, React  
+- **Databases:** MongoDB, MySQL, SQL Server  
+- **Tools:** Git, GitHub, VS Code, Figma  
+
+---
+
+
+⭐️ *“Keep learning, keep building!”*  
